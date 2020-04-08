@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "§id": "https://raw.githubusercontent.com/dini-ag-kim/lrmi-profile/testSplitUp/draft/schemas/schema.json",
+    "§id": "https://acka47.github.io/lrmi-profile/draft/schemas/creator.json",
     "title": "Creator",
     "items": {
         "type": "object",
