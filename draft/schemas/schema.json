@@ -55,7 +55,7 @@
     },
     "creator": {
       "type": "array",
-      "$ref": "https://acka47.github.io/lrmi-profile/draft/schemas/creator.json "
+      "$ref": "https://acka47.github.io/lrmi-profile/draft/schemas/creator.json"
     },
     "description": {
       "title": "Description",
